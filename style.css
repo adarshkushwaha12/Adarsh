@@ -1,0 +1,159 @@
+#re{
+    background: #4e3d3d;
+    color: #fff;
+}
+#ve{
+    background: #2b2222;
+    color: #fff;
+}
+/* Contact Section */
+/* #contact{
+    padding:60px 20px;
+    background:#f9f9f9;
+    text-align:center;
+}
+
+.contact-container{
+    max-width:500px;
+    margin:auto;
+    background:#ffffff;
+    padding:30px;
+    border-radius:10px;
+    box-shadow:0 4px 10px rgba(0,0,0,0.1);
+}
+
+#contact h2{
+    margin-bottom:10px;
+    font-size:28px;
+}
+
+#contact p{
+    margin-bottom:20px;
+    color:#555;
+}
+
+/* Form Inputs */
+/* form input,
+form textarea{
+    width:100%;
+    padding:12px;
+    margin:10px 0;
+    border:1px solid #ccc;
+    border-radius:6px;
+    font-size:14px;
+    outline:none;
+    transition:0.3s;
+}
+
+form input:focus,
+form textarea:focus{
+    border-color:#007bff;
+}
+
+/* Button */
+/* form button{
+    width:100%;
+    padding:12px;
+    background:#007bff;
+    color:#fff;
+    border:none;
+    border-radius:6px;
+    font-size:16px;
+    cursor:pointer;
+    transition:0.3s;
+}
+
+form button:hover{
+    background:#0056b3;
+}
+
+/* Responsive */
+/* @media (max-width:600px){
+    .contact-container{
+        padding:20px;
+    }
+} */ 
+
+#photo{
+ border-color: skyblue;
+
+}
+
+
+
+
+/* Background */
+.contact-body {
+  font-family: Arial, sans-serif;
+  background: linear-gradient(135deg, #4facfe, #00f2fe);
+  margin: 0;
+  padding: 0;
+}
+
+/* Form container */
+.contact-form-box {
+  background: #ffffff;
+  max-width: 400px;
+  margin: 60px auto;
+  padding: 25px;
+  border-radius: 12px;
+  box-shadow: 0 10px 25px rgba(0, 0, 0, 0.2);
+}
+
+/* Labels */
+.contact-label {
+  display: block;
+  margin-bottom: 6px;
+  font-weight: bold;
+  color: black;
+  
+}
+
+/* Inputs & textarea */
+.contact-input,
+.contact-textarea {
+  width: 100%;
+  padding: 10px;
+  margin-bottom: 15px;
+  border-radius: 8px;
+  border: 1px solid #0f0e0e;
+  outline: none;
+  transition: 0.3s;
+  color: #000;
+}
+#time{
+  text-align: right;
+}
+/* Focus effect */
+.contact-input:focus,
+.contact-textarea:focus {
+  border-color: #4facfe;
+  box-shadow: 0 0 5px rgba(79, 172, 254, 0.5);
+}
+
+
+/* Button */
+.contact-btn {
+  width: 100%;
+  padding: 12px;
+  background: #4facfe;
+  color: rgb(11, 11, 11);
+  border: none;
+  border-radius: 8px;
+  font-size: 16px;
+  cursor: pointer;
+  transition: 0.3s;
+}
+
+/* Hover */
+.contact-btn:hover {
+  background: #007bff;
+}
+
+/* Mobile */
+@media (max-width: 480px) {
+  .contact-form-box {
+    width: 90%;
+    margin: 30px auto;
+  }
+}
